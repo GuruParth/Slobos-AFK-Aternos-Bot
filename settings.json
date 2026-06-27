@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "eu1.freegamehost.xyz:25757",
+    "ip": "eu1.freegamehost.xyz",
     "port": 25757,
     "version": "",
     "try-creative": false
