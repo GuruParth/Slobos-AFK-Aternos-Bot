@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "us.freegamehost.xyz:10375",
-    "port": 10375,
-    "version": "",
+    "port": 25565,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
