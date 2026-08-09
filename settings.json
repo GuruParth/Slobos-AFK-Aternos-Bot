@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "us.freegamehost.xyz:5173",
-    "port": 5173,
+    "ip": "us.freegamehost.xyz:2525",
+    "port": 2525,
     "version": "",
     "try-creative": false
   },
