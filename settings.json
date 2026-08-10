@@ -1,5 +1,5 @@
 {
-  "name": "GPS14AFK Bot",
+  "name": "GPS14AFKBot",
   "bot-account": {
     "username": "Ravinder_ARYA",
     "password": "",
@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "us.freegamehost.xyz:10375",
-    "port": 2525,
+    "port": 10375,
     "version": "",
     "try-creative": false
   },
