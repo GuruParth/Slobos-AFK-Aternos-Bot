@@ -5,10 +5,10 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
+ "server": {
     "ip": "india2.freegamehost.xyz",
-    "port": 25565,
-    "version": "",
+    "port": 25016,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
