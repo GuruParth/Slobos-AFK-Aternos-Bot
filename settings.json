@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "india2.freegamehost.xyz",
+    "ip": "india2.freegamehost.xyz:",
     "port": 25016,
     "version": "",
     "try-creative": false
