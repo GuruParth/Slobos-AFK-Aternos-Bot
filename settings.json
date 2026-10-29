@@ -2,11 +2,11 @@
   "name": "GPS14AFKBot",
   "bot-account": {
     "username": "Ravinder_ARYA",
-    "password": " 25774",
+    "password": "",
     "type": "offline"
   },
  "server": {
-    "ip": "harrypottermania.mcserv.world",
+    "ip": "india2.freegamehost.xyz",
     "port":25774,
     "version": "1.16.5",
     "try-creative": false
