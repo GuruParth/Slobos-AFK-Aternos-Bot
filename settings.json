@@ -7,7 +7,7 @@
   },
  "server": {
     "ip": "harrypottermania.mcserv.world",
-    "port": 25338,
+    "port":,
     "version": "1.16.5",
     "try-creative": false
   },
