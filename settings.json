@@ -6,9 +6,9 @@
     "type": "offline"
   },
  "server": {
-    "ip": "india2.freegamehost.xyz",
-    "port":25774,
-    "version": "1.16.5",
+    "ip": "harrypottermania.mcserv.world",
+    "port":25338,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
